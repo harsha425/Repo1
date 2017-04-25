@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CAAD-1927
+
+ Directory of C:\Users\datar\Desktop\Tools\Git\MyFolder
+
+04/25/2017  03:29 PM    <DIR>          .
+04/25/2017  03:29 PM    <DIR>          ..
+04/25/2017  03:29 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  400,380,633,088 bytes free
